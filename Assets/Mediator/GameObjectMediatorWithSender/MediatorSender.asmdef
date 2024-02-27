@@ -1,0 +1,6 @@
+{
+    "name": "MediatorSender",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
